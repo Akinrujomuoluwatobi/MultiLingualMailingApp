@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiLinguaMailngApp</string>
+    <string name="action_settings">Log Out</string>
+    <string name="title_activity_view_users">Contacts</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_chat_room">ChatRoom</string>
+    <string name="inbox">Inbox</string>
+</resources>

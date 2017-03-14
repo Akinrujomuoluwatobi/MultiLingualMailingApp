@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "745790476832",
+    "firebase_url": "https://multilingualmailing.firebaseio.com",
+    "project_id": "multilingualmailing",
+    "storage_bucket": "multilingualmailing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745790476832:android:7b28ad38e2e24036",
+        "android_client_info": {
+          "package_name": "com.example.royalteck.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745790476832-hiuna5d44596bu578n0m5sgvibt55r1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXY8tLKhd3tC165DleSWWy-isylfL5m4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745790476832:android:f26aebcc63e0a88d",
+        "android_client_info": {
+          "package_name": "com.royalteck.progtobi.multilinguamailngapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745790476832-hiuna5d44596bu578n0m5sgvibt55r1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXY8tLKhd3tC165DleSWWy-isylfL5m4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
